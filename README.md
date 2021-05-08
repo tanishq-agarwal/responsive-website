@@ -1,0 +1,1 @@
+This website is 100% responsive. It is made using simple html and css and little bit of javascript only. Hope you'd like and appreciate my efforts:)
